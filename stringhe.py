@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
 """
 Implementa una funzione leetv(line) che prende come input una stringa
 line e la modifica in modo da avere una versione della stringa in
